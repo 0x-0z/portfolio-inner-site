@@ -10,7 +10,6 @@ import Toolbar from './Toolbar';
 import DesktopShortcut, { DesktopShortcutProps } from './DesktopShortcut';
 import Scrabble from '../applications/Scrabble';
 import { IconName } from '../../assets/icons';
-import Credits from '../applications/Credits';
 
 export interface DesktopProps {}
 
