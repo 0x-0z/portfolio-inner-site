@@ -57,7 +57,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://OmarTatwa.vercel.app/"
+                        href="https://henryheffernan.vercel.app/"
                     >
                         here
                     </a>{' '}
@@ -84,10 +84,10 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://OmarTatwa.vercel.app/"
+                            href="https://henryheffernan.vercel.app/"
                         >
                             <p>
-                                <b>[OS Site]</b> - OmarTatwa.vercel.app
+                                <b>[OS Site]</b> - henryheffernan.vercel.app
                             </p>
                         </a>
                     </li>
@@ -95,7 +95,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/portfolio-website"
+                            href="https://github.com/0x-0z/portfolio-website"
                         >
                             <p>
                                 <b>[GitHub]</b> - 3D Site Repository
@@ -106,7 +106,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/portfolio-inner-site"
+                            href="https://github.com/0x-0z/portfolio-inner-site"
                         >
                             <p>
                                 <b>[GitHub]</b> - OS Site Repository
@@ -188,7 +188,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/gsts_assets"
+                            href="https://github.com/0x-0z/gsts_assets"
                         >
                             <p>
                                 <b>[GitHub]</b> - Guntattchment Saga The Sequel
@@ -244,7 +244,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://github.com/henryjeff/skip-the-scroll"
+                            href="https://github.com/0x-0z/skip-the-scroll"
                         >
                             <p>
                                 <b>[GitHub]</b> - Skip the Scroll Repository
