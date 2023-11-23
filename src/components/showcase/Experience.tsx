@@ -14,15 +14,15 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href={'https://hover.gg/'}
+                            href={'https://tdsecurities.com/'}
                         >
-                            <h4>www.hover.gg</h4>
+                            <h4>www.tdsecurities.com</h4>
                         </a>
                     </div>
                     <div style={styles.headerRow}>
-                        <h3>Frontend Engineer</h3>
+                        <h3>Senior Data Engineer</h3>
                         <b>
-                            <p>Summer 2020 - Fall 2021</p>
+                            <p>Winter 2021 - Present</p>
                         </b>
                     </div>
                 </div>
@@ -86,13 +86,13 @@ const Experience: React.FC<ExperienceProps> = (props) => {
                         <a
                             target="_blank"
                             rel="noreferrer"
-                            href={'https://bracs.co/'}
+                            href={'https://capitalmarkets.bmo.com/en/'}
                         >
-                            <h4>www.bracs.co</h4>
+                            <h4>https://capitalmarkets.bmo.com/</h4>
                         </a>
                     </div>
                     <div style={styles.headerRow}>
-                        <h3>Team Lead & Engineer</h3>
+                        <h3>Business Analyst</h3>
                         <b>
                             <p>Fall 2021 - Spring 2022</p>
                         </b>
